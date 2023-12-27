@@ -1,10 +1,7 @@
-package com.pnqphong.problemsolving;
+package com.pnqphong.problemsolving.cdlt;
 
 import java.util.Arrays;
 
-/**
- * Solve problem <a href="https://app.codility.com/demo/results/training3TKFUZ-9P8/">Max Counters</a>
- */
 public final class MaxCounter {
 
   public static int[] solution(int N, int[] A) {
@@ -23,7 +20,6 @@ public final class MaxCounter {
           maxCounter = result[counterPosition];
         }
       }
-      System.out.println(Arrays.toString(result));
     }
     return result;
   }

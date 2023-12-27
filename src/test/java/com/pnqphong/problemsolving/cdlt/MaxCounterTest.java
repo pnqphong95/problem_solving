@@ -1,4 +1,4 @@
-package com.pnqphong.problemsolving;
+package com.pnqphong.problemsolving.cdlt;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
