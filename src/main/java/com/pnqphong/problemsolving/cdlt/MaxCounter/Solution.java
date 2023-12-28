@@ -1,8 +1,8 @@
-package com.pnqphong.problemsolving.cdlt;
+package com.pnqphong.problemsolving.cdlt.MaxCounter;
 
 import java.util.Arrays;
 
-public final class MaxCounter {
+public final class Solution {
 
   public static int[] solution(int N, int[] A) {
     int[] result = new int[N];
